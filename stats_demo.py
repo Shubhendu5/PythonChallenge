@@ -1,6 +1,6 @@
 def summarize(numbers):
 
-    """Return a dict with count, min, max."""
+    """Return a dict with count, mi."""
 
     if not numbers:
 
